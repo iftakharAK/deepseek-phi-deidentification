@@ -1,0 +1,6 @@
+Corrected de-identified output after hallucination filtering:
+
+"Patient [NAME] was admitted on [DATE] for chest pain."
+
+Hallucinated identifiers are removed and replaced by generic placeholders.
+No new PHI is introduced that is not present in the original note.

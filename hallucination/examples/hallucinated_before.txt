@@ -1,0 +1,8 @@
+Original note:
+"Patient John Smith was admitted on 05/12/2024 for chest pain."
+
+Model output (hallucinated):
+"Patient Michael Johnson was admitted on 01/01/2015 for chest pain."
+
+Here, both the name "Michael Johnson" and the date "01/01/2015" are hallucinated.
+They do not exist in the original note.

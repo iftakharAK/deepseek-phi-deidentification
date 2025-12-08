@@ -1,0 +1,10 @@
+{
+  "hallucinated_span": "Michael Johnson",
+  "detected_by": [
+    "similarity_filter",
+    "entailment_checker"
+  ],
+  "action": "mask_span",
+  "replacement": "[NAME]",
+  "reason": "Generated patient name not supported by original note. Filtered to avoid introducing fabricated PHI."
+}
