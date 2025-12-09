@@ -17,7 +17,7 @@ The proposed system fine-tunes a **DeepSeek-LLM using QLoRA** to detect, redact,
 
 This project uses a publicly released **LoRA adapter** hosted on Hugging Face:
 
-### 👉 https://huggingface.co/Iftakhar/deepseek-phi-adapter
+###  https://huggingface.co/Iftakhar/deepseek-phi-adapter
 
 All demo, evaluation, and reproducibility scripts automatically download this adapter during inference using:
 
