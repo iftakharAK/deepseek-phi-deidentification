@@ -1,0 +1,1 @@
+Patient [NAME] was admitted on [DATE] to [HOSPITAL] with chest pain.

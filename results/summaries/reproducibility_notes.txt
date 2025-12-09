@@ -1,0 +1,22 @@
+Hardware:
+- NVIDIA RTX A5000 GPU (22GB VRAM)
+- CUDA 12.1
+
+Software:
+- Python 3.10.18
+- PyTorch 2.2.2+cu121
+- Transformers 4.39.3
+- PEFT 0.8.2
+- bitsandbytes 0.43.1
+
+Training:
+- LoRA fine-tuning (QLoRA, NF4, 4-bit)
+- Sequence length: 1536
+- Batch size: 1 with gradient accumulation of 16
+- Learning rate: 1e-4 (cosine decay)
+- Epochs: 3
+
+Final model checkpoint stored locally under:
+outputs/regex_finetune_run_<timestamp>/final_model
+
+All results reported in this folder correspond to the metrics used in the submitted paper.

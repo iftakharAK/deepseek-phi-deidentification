@@ -1,0 +1,3 @@
+(NAME): Personal names are protected identifiers under HIPAA §164.514(b)(2)(i)(A).
+(DATE): Full dates related to individuals are PHI under HIPAA §164.514(b)(2)(i)(C).
+(HOSPITAL): Institutional identifiers masked under HIPAA Safe Harbor §164.514(b)(2)(i)(B).

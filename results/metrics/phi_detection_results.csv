@@ -1,0 +1,5 @@
+Model,Precision,Recall,Macro_F1
+CRF_i2b2,0.883,0.870,0.865
+GPT4o_ZeroShot,0.894,0.856,0.871
+DeID_GPT,0.921,0.913,0.915
+DeepSeek_Ours,0.945,0.938,0.972
