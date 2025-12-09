@@ -1,0 +1,11 @@
+torch
+transformers>=4.39.0
+peft>=0.8.2
+accelerate
+bitsandbytes
+datasets
+scikit-learn
+nltk
+huggingface_hub
+numpy
+scipy
